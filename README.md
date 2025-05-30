@@ -1315,7 +1315,6 @@
 - https://github.com/DawnFlame/POChouse
 - https://github.com/FiloSottile/CVE-2016-2107
 - https://github.com/Mr-xn/Penetration_Testing_POC
-- https://github.com/Threekiii/Awesome-Exploit
 - https://github.com/Y1-K1NG/poc_exp
 - https://github.com/coffeehb/Some-PoC-oR-ExP
 - https://github.com/cve-search/cve-search
