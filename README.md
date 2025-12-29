@@ -13,6 +13,7 @@
 - https://github.com/Wfzsec/awd_attack_framework
 - https://github.com/admintony/Prepare-for-AWD
 ### 防护
+- https://github.com/AlphabugX/Jawd
 - https://github.com/DasSecurity-HatLab/AoiAWD
 - https://github.com/dr0op/k4l0ng_WAF
 - https://github.com/sharpleung/CTF-WAF
@@ -959,6 +960,8 @@
 - https://github.com/c0olw/NacosRce
 - https://github.com/charonlight/NacosExploitGUI
 - https://github.com/h0ny/NacosExploit
+#### React
+- https://github.com/darkfiv/ReactExploitGUI
 #### SmartBI
 - https://github.com/yggo/SmartBIAttackTool
 #### Spring Boot
@@ -1029,6 +1032,7 @@
 #### docker
 - https://github.com/0xchang/DockerApiRCE
 - https://github.com/Janhsu/DockerAPITool
+- https://github.com/mhtsec/Docker-Registry-exp
 #### joom
 - https://github.com/OWASP/joomscan
 #### vmware
@@ -1163,6 +1167,7 @@
 - https://github.com/Ch1ngg/JWTPyCrack
 - https://github.com/andresriancho/jwt-fuzzer
 - https://github.com/brendan-rius/c-jwt-cracker
+- https://github.com/fightnvrgp/JWT-Brute-Force-Tool
 - https://github.com/hahwul/jwt-hack
 - https://github.com/ozzi-/JWT4B
 - https://github.com/ticarpi/jwt_tool
@@ -1376,6 +1381,7 @@
 #### java
 - https://github.com/4ra1n/code-inspector
 - https://github.com/HXSecurity/DongTai
+- https://github.com/Tr0e/JavaSinkTracer
 - https://github.com/ffffffff0x/JVWA
 - https://github.com/find-sec-bugs/find-sec-bugs
 - https://github.com/github/codeql-cli-binaries
@@ -1758,6 +1764,7 @@
 - https://github.com/OJ/gobuster
 - https://github.com/Qianlitp/crawlergo
 - https://github.com/ReddyyZ/urlbrute
+- https://github.com/Sugobet/API_Sword
 - https://github.com/Threezh1/JSFinder
 - https://github.com/VMsec/ihoneyBakFileScan_Modify
 - https://github.com/Xyntax/DirBrute
@@ -1810,6 +1817,7 @@
 - https://github.com/saeeddhqan/Maryam
 - https://github.com/sowish/LNScan
 - https://github.com/v-byte-cpu/sx
+- https://github.com/vam876/FastNmap
 ### 综合
 - https://github.com/0x7eTeam/0x7eTeamTools
 - https://github.com/Proviesec/google-dorks
@@ -1858,6 +1866,7 @@
 - https://github.com/komomon/Komo
 - https://github.com/mscandev/mscan
 - https://github.com/smallcham/sec-admin
+- https://github.com/tangxiaofeng7/cscan
 - https://github.com/taomujian/linbing
 - https://github.com/testnet0/testnet
 - https://github.com/wgpsec/DBJ
@@ -1866,6 +1875,7 @@
 - https://github.com/yogeshojha/rengine
 - https://github.com/yqcs/heartsk_community
 - https://github.com/ysrc/xunfeng
+- https://github.com/yyhuni/xingrin
 - https://github.com/zongdeiqianxing/Autoscanner
 ### 资产测绘平台
 - http://hunter.qianxin.com/
@@ -2347,6 +2357,7 @@
 - https://github.com/Gality369/CS-Loader
 - https://github.com/Getshell/CobaltStrike
 - https://github.com/QAX-A-Team/EventLogMaster
+- https://github.com/Sentinel-One/CobaltStrikeParser
 - https://github.com/aleenzz/Cobalt_Strike_wiki
 - https://github.com/its-arun/CVE-2022-39197
 - https://github.com/kingz40o/Aggressor_dingding
@@ -2424,6 +2435,7 @@
 ### 工具集成环境
 - https://github.com/ApocalypseSec/ApoalypseSecTools
 - https://github.com/CuriousLearnerDev/Online_tools
+- https://github.com/JiaoSuInfoSec/JiaoSuInfoSec_T00ls_Win11
 - https://github.com/arch3rPro/PST-Bucket
 - https://github.com/arch3rPro/Pentest-Windows
 - https://github.com/ccc-f/PenKitGui
@@ -2503,6 +2515,7 @@
 - https://github.com/Ridter/redis-rce
 - https://github.com/n0b0dyCN/redis-rogue-server
 - https://github.com/yuyan-sec/RedisEXP
+- https://github.com/zjeweler/redis_tools_GUI
 - https://github.com/zyylhn/redis_rce
 #### 综合
 - https://github.com/DeEpinGh0st/MDUT-Extend-Release
@@ -2718,6 +2731,7 @@
 - https://www.qsl.net/on6mu/rxsstv.htm
 ### 相关资源
 - https://github.com/XDforensics-wiki/XDforensics-wiki
+- https://github.com/mesquidar/ForensicsTools
 ### 磁盘分析
 #### 文件转换
 - https://cloudbase.it/qemu-img-windows/
@@ -2927,6 +2941,7 @@
 #### IOT漏洞
 - https://github.com/firmianay/IoT-vulhub
 #### web基础
+- https://github.com/Apursuit/rce-labs
 - https://github.com/WebGoat/WebGoat
 - https://github.com/WebGoat/WebGoat-Legacy
 - https://github.com/cr0hn/vulnerable-node
@@ -2949,6 +2964,7 @@
 - https://github.com/c0ny1/xxe-lab
 #### 应用漏洞
 - https://github.com/Hackademic/hackademic
+- https://github.com/JoyChou93/java-sec-code
 - https://github.com/Medicean/VulApps
 - https://github.com/cider-security-research/cicd-goat
 - https://github.com/cliffe/secgen
@@ -2956,6 +2972,8 @@
 - https://github.com/j3ers3/Hello-Java-Sec
 - https://github.com/lokerxx/JavaVul
 - https://github.com/vulhub/vulhub
+#### 综合靶场
+- https://github.com/414aaj/LingJing
 ### 风控系统
 - https://gitee.com/freshday/radar
 - https://github.com/momosecurity/aswan
@@ -3002,6 +3020,10 @@
 - http://tools.bugscaner.com/killwebshell/
 - https://n.shellpub.com/
 - https://www.d99net.net/
+### 主机层面
+#### 综合
+- https://github.com/kk12-30/Sentinel
+- https://github.com/vam876/FastMonitor
 ### 威胁情报
 #### IP分析
 - https://github.com/CRED-CLUB/ARTIF
@@ -3010,6 +3032,9 @@
 - https://github.com/s045pd/DarkNet_ChineseTrading
 #### 钓鱼监测
 - https://github.com/x0rz/phishing_catcher
+### 应用层面
+#### web日志分析
+- https://github.com/vam876/FastWLAT
 ### 应用日志分析
 - https://github.com/OSTEsayed/OSTE-Web-Log-Analyzer
 - https://github.com/mthbernardes/ARTLAS
@@ -3065,6 +3090,10 @@
 - https://github.com/reto18052015/YingJiXiangYing
 ##### 进程监控
 - https://processhacker.sourceforge.io/
+#### linux日志分析
+- https://github.com/vam876/FastLinLog
+#### windows日志分析
+- https://github.com/vam876/FastWinLog
 #### 勒索病毒在线分析
 - https://edr.sangfor.com.cn/#/information/ransom_search
 - https://guanjia.qq.com/pr/ls/
