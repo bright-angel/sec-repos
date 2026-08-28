@@ -2396,6 +2396,7 @@
 - https://github.com/UltimateSec/ultimaste-nuclei-templates
 - https://github.com/Yong-An-Dang/nuclei-plus
 - https://github.com/mlq574/nucleix
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous AI penetration testing platform: 50+ offensive tools across web, cloud, AD and Kubernetes, self-hosted, the model never receives your real IPs or credentials.
 - https://github.com/projectdiscovery/nuclei-templates
 #### pocassist
 - https://github.com/jweny/pocassistdb
